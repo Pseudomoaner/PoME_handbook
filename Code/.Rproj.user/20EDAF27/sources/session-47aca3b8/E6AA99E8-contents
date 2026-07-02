@@ -1,0 +1,19 @@
+--- 
+title: "The Physics of Microbial Ecosystems (PoME) group - lab handbook"
+author: "Oliver Meacock"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+documentclass: book
+bibliography:
+- book.bib
+- packages.bib
+description: |
+  This is the lab handbook for the PoME group
+link-citations: true
+github-repo: "rstudio/bookdown-demo"
+---
+
+# Welcome! {-}
+
+Welcome to the Physics of Microbial Ecosystems (PoME) group! This handbook is intended as your complete guide to life in your new position. If you find it is __not__ a complete guide, please email Oli at o.meacock@sheffield.ac.uk with suggestions for additions.
+
