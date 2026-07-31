@@ -16,7 +16,7 @@ site: bookdown::bookdown_site
 
 # Welcome! {-}
 
-Welcome to the Physics of Microbial Ecosystems (PoME) group! This handbook is intended as your complete guide to life in your new position. If you find it is __not__ a complete guide, please email Oli at o.meacock@sheffield.ac.uk with suggestions for additions.
+Welcome to the Physics of Microbial Ecosystems (PoME) group! This handbook is intended as your complete guide to life in your new position. If you find it is __not__ a complete guide, please email Oli at o.meacock [at] sheffield.ac.uk with suggestions for additions.
 
 Assuming you have access to the School of Biosciences' intranet, a lot of useful information can be found [here](https://sites.google.com/sheffield.ac.uk/biosciences-intranet/home). If you've not made it that far, check Section \@ref(IT) first.
 

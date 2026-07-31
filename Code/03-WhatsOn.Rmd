@@ -9,6 +9,7 @@
 We hold meetings within PoME every two weeks. 
 
 ## Seminar series
+knitr::include_graphics("https://github.com/Pseudomoaner/PoME_handbook/blob/main/Images/BiosciencesMap.png")
 
 ## Cluster meetings
 

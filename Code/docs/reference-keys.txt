@@ -1,10 +1,6 @@
-fig:nice-fig
-tab:nice-tab
-hello-bookdown
+group-overview
 a-section
-cross
-chapters-and-sub-chapters
-captioned-figures-and-tables
+where-are-we
 whats-on-the-schedule
 group-meetings
 joint-group-meetings
@@ -16,5 +12,3 @@ the-phd-journey-at-sheffield
 new-starter-checklist
 IT
 level-4-students-and-undergraduates
-group-overview
-where-are-we

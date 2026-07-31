@@ -1,34 +1,19 @@
-# Cross-references {#cross}
+# Where are we?
 
-Cross-references make it easier for your readers to find and link to elements in your book.
+We are based in the School of Biosciences, a component of the Faculty of Sciences. The school is a large complex of buildings at the heart of the University and hosts five research clusters:
 
-## Chapters and sub-chapters
+ - Molecular Microbiology: Biochemistry to Disease (MMBD) (where we are based)
+ - Ecology and Evolutionary Biology (EEB) (Good source of collaborations)
+ - Development, Regeneration and Neurophysiology (DRN)
+ - Molecular and Cellular Biology (MCB)
+ - Plants, Photosynthesis and Soil (PPS)
+ 
+We are based in the oldest part of the University, Firth Court (FC). Other buildings that make up the complex are the Florey, Perak, Addison, Edwardian and Alfred Denny (AD) buildings. Of these, the AD building most important to know about as it contains the lecture theatres where Biosciences seminars are held - you can access these by exiting FC from the front, taking the stairs down on your left and reentering the complex through the entrance immediately on your left. Needless to say there are many other routes but these will be left as an opportunity for exploration of the Biosciences rat nest!
 
-There are two steps to cross-reference any heading:
+knitr::include_graphics("https://github.com/Pseudomoaner/PoME_handbook/blob/main/Images/BiosciencesMap.png")
 
-1. Label the heading: `# Hello world {#nice-label}`. 
-    - Leave the label off if you like the automated heading generated based on your heading title: for example, `# Hello world` = `# Hello world {#hello-world}`.
-    - To label an un-numbered heading, use: `# Hello world {-#nice-label}` or `{# Hello world .unnumbered}`.
+Some room numbers in the complex which may be of use:
 
-1. Next, reference the labeled heading anywhere in the text using `\@ref(nice-label)`; for example, please see Chapter \@ref(cross). 
-    - If you prefer text as the link instead of a numbered reference use: [any text you want can go here](#cross).
-
-## Captioned figures and tables
-
-Figures and tables *with captions* can also be cross-referenced from elsewhere in your book using `\@ref(fig:chunk-label)` and `\@ref(tab:chunk-label)`, respectively.
-
-See Figure \@ref(fig:nice-fig).
-
-```{r nice-fig, fig.cap='Here is a nice figure!', out.width='80%', fig.asp=.75, fig.align='center', fig.alt='Plot with connected points showing that vapor pressure of mercury increases exponentially as temperature increases.'}
-par(mar = c(4, 4, .1, .1))
-plot(pressure, type = 'b', pch = 19)
-```
-
-Don't miss Table \@ref(tab:nice-tab).
-
-```{r nice-tab, tidy=FALSE}
-knitr::kable(
-  head(pressure, 10), caption = 'Here is a nice table!',
-  booktabs = TRUE
-)
-```
+ - F21: Our lab space (shared with Laia Pasquina-Lemonche)
+ - F18: The lab space of Simon Foster - contains lots of communal equipment in frequent use by the group
+ - G05: Oli's office
