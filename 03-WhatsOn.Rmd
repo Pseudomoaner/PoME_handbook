@@ -4,12 +4,16 @@
 
 ### Joint group meetings
 
+MMBD holds two multi-group research meetings between 10-11am every second week, one on alternating Wednesdays and one on alternating Fridays. The Wednesday sessions are attended by Graham Stafford, Ian Lidbury, Stephane Mesnage, Oliver Meacock and Laia Pasquina-Lemonche. They tend to be focused on cell wall biology, phages and environmental microbiology. The Friday sessions are attended by Per Bullough, Robert Fagan, Andrew Fenton, Mack Durham, Jason Wilson and Laia Pasquina-Lemonche and are more oriented towards pathogens, pathogensis and structural biology.
+
 ### PoME meetings
 
 We hold meetings within PoME every two weeks. 
 
 ## Seminar series
-knitr::include_graphics("https://github.com/Pseudomoaner/PoME_handbook/blob/main/Images/BiosciencesMap.png")
+A complete list of seminars held in the School is available [here](https://sheffield.ac.uk/biosciences/research/seminars). Key ones are the EEB and MMBD seminars, which are held at 1-2pm on Tuesdays and Thursdays respectively. Both internal and external speakers speak at these seminars.
+
+Another event to keep an eye out for is the Margaret Savigear lecture, which is an annual seminar specifically focussed on female role models in science. These typically attract quite high profile scientists.
 
 ## Cluster meetings
 
@@ -19,4 +23,8 @@ As well as administrative matters, these meetings are an opportunity for cluster
 
 ## Social stuff
 
-EEB holds coffee and news mornings every Tuesday at 10:30-11:00 am. MMBD PIs typically migrate to the university pub (the Uni Arms) after cluster meetings on Fridays, while EEB members tend to start gathering there at about 5pm every week.
+EEB holds coffee and news mornings every Tuesday at 10:30-11:00 am in the Alfred Denny common room. There are also coffee mornings organised by the PGR committee and postdoc committee 10:30-11 on Wednesdays and Fridays respectively. These are either held in the Alfred Denny common room or the Addison common room (you will get emails telling you which one).
+
+MMBD PIs typically migrate to the university pub (the Uni Arms) after cluster meetings, while EEB members tend to start gathering there at about 5pm every week.
+
+Less frequent social events include the MMBD Christmas hike and the EEB Summer picnic.

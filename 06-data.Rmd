@@ -1,1 +1,5 @@
 # Data, IT and coding {#IT}
+
+## Getting started
+
+Your first priority upon joining the group should be to get signed up to Eduroam. Details are available (here)[https://sheffield.ac.uk/it-services/eduroam].
