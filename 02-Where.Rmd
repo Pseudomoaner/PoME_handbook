@@ -2,18 +2,18 @@
 
 We are based in the School of Biosciences, a component of the Faculty of Sciences. The school is a large complex of buildings at the heart of the University and hosts five research clusters:
 
- - Molecular Microbiology: Biochemistry to Disease (MMBD) (where we are based)
- - Ecology and Evolutionary Biology (EEB) (Good source of collaborations)
- - Development, Regeneration and Neurophysiology (DRN)
- - Molecular and Cellular Biology (MCB)
- - Plants, Photosynthesis and Soil (PPS)
- 
+-   Molecular Microbiology: Biochemistry to Disease (MMBD) (where we are based)
+-   Ecology and Evolutionary Biology (EEB) (Good source of collaborations)
+-   Development, Regeneration and Neurophysiology (DRN)
+-   Molecular and Cellular Biology (MCB)
+-   Plants, Photosynthesis and Soil (PPS)
+
 We are based in the oldest part of the University, Firth Court (FC). Other buildings that make up the complex are the Florey, Perak, Addison, Edwardian and Alfred Denny (AD) buildings. Of these, the AD building most important to know about as it contains the lecture theatres where Biosciences seminars are held - you can access these by exiting FC from the front, taking the stairs down on your left and reentering the complex through the entrance immediately on your left. Needless to say there are many other routes but these will be left as an opportunity for exploration of the Biosciences rat nest!
 
 ![](https://raw.githubusercontent.com/Pseudomoaner/PoME_handbook/main/Images/BiosciencesMap.png)
 
 Some room numbers in the complex which may be of use:
 
- - F21: Our lab space (shared with Laia Pasquina-Lemonche)
- - F18: The lab space of Simon Foster - contains lots of communal equipment in frequent use by the group
- - G05: Oli's office
+-   F21: Our lab space (shared with Laia Pasquina-Lemonche)
+-   F18: The lab space of Simon Foster - contains lots of communal equipment in frequent use by the group
+-   G05: Oli's office

@@ -1,5 +1,4 @@
 group-overview
-a-section
 where-are-we
 whats-on-the-schedule
 group-meetings
@@ -11,8 +10,8 @@ social-stuff
 the-phd-journey-at-sheffield
 new-starter-checklist
 IT
-level-4-students-and-undergraduates
 getting-started
+level-4-students-and-undergraduates
 career-development
 fellowships
-other-routes
+other-opportunities
